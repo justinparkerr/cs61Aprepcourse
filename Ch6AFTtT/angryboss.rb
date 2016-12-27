@@ -1,0 +1,6 @@
+puts '*Walks into office hours'
+puts 'Student: Hello Mr. De Leon. May I ask you a quick question please?'
+puts 'Mr. De Leon: Pretty busy right now kid, so make it quick..'
+request= 'get extra credit to boost my grade to an A'
+puts 'Student: Do you think I can ' +request+ '?'
+puts 'Mr. De Leon: ARE YOU INSANE BRO? YOU WANT TO "' + request.upcase + '"?!?! GET OUTA MY OFFICE!'
